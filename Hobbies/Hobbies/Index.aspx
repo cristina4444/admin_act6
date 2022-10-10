@@ -61,7 +61,10 @@
     </section>
 
     <section>
-        <nav></nav>
+        <nav>
+            <h2>Otravez mi perrito y gatito pero ahora en video</h2>
+
+        </nav>
         <article></article>
     </section>
 
