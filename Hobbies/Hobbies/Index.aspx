@@ -13,6 +13,7 @@
     <script src="https://kit.fontawesome.com/93517f43b3.js" crossorigin="anonymous"></script>
 
     <!--CSS local-->
+    
     <link href="css/StyleSheet1.css" rel="stylesheet" />
 
 </head>
@@ -24,7 +25,9 @@
     <section>
         prueba section
         <nav>
-            prueba nav
+            Paginas favoritas <br />
+            <asp:HyperLink runat="server" NavigateUrl="https://www.youtube.com/">YouTube</asp:HyperLink><br />
+            <asp:HyperLink runat="server" NavigateUrl="https://www.facebook.com/">Facebook</asp:HyperLink>
         </nav>
 
         <article>
