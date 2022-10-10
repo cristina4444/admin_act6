@@ -75,6 +75,7 @@
     <Content Include="images\nico.jpeg" />
     <Content Include="images\nico2.jpeg" />
     <Content Include="images\ver.jpg" />
+    <Content Include="images\videos\WhatsApp Video 2022-10-09 at 7.10.58 PM.mp4" />
     <Content Include="images\voleibol.jpg" />
     <Content Include="Index.aspx" />
     <Content Include="music\Billie Eilish - Happier Than Ever.mp3" />
@@ -102,9 +103,7 @@
       <DependentUpon>Web.config</DependentUpon>
     </None>
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="images\videos\" />
-  </ItemGroup>
+  <ItemGroup />
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
