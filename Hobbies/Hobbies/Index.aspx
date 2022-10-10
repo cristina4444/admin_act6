@@ -55,7 +55,7 @@
             </nav>
         <article>
             <h2>Mis amistades</h2>
-            <p>Me divierto mucho con mis amigos, me gusta mucho pasar tiempo con ellos y me hacen reír mucho:)</p>
+            <p>Me divierto mucho con mis amigos, me gusta mucho pasar tiempo con ellos y me hacen re&iacute;r mucho:)</p>
             <video src="images/videos/WhatsApp%20Video%202022-10-09%20at%207.10.58%20PM.mp4" controls="controls" width="30%" />
         </article>
     </section>
@@ -78,8 +78,8 @@
     </section>
 
     <footer>
-        Cristina Linelle López Corral, 361795, 2022 Oct 9
+        Cristina Linelle L&oacute;pez Corral, 361795, 2022 Oct 9
     </footer>
-
+    
 </body>
 </html>
