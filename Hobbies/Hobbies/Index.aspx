@@ -67,12 +67,14 @@
         </nav>
         <article>
             <p>Una fotitos de mis amigos y yo:)</p>
-            <img src="images/amiwos.jpeg" width="65%"/>
-          
+            <img src="images/amiwos.jpeg" width="55%"/>
+            <br />
             <h2>Algunas de mis canciones favoritas actualmente</h2>
             <p>Estas dos canciones son las que más he escuchado ultimamente, entonces las considero actualmente mis favoritas</p>
+            Miranda! -Perfecta
             <p><audio src="music/Miranda!%20-%20Perfecta.mp3" controls="controls" /></p>
-            <p> <audio src="music/Manuel%20Turizo%20-%20La%20Bachata.mp3" controls="controls" /></p>
+            Manuel Turizo -La Bachata
+            <p><audio src="music/Manuel%20Turizo%20-%20La%20Bachata.mp3" controls="controls" /></p>
             
         </article>
     </section>
