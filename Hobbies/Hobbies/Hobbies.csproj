@@ -68,8 +68,19 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="css\StyleSheet1.css" />
+    <Content Include="images\amiwos.jpeg" />
+    <Content Include="images\amiwos2.jpeg" />
+    <Content Include="images\amiwos3.jpeg" />
     <Content Include="images\elheader.png" />
+    <Content Include="images\nico.jpeg" />
+    <Content Include="images\nico2.jpeg" />
+    <Content Include="images\ver.jpg" />
+    <Content Include="images\voleibol.jpg" />
     <Content Include="Index.aspx" />
+    <Content Include="music\Billie Eilish - Happier Than Ever.mp3" />
+    <Content Include="music\Billie Eilish, Khalid - lovely.mp3" />
+    <Content Include="music\Manuel Turizo - La Bachata.mp3" />
+    <Content Include="music\Miranda! - Perfecta.mp3" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -90,6 +101,9 @@
     <None Include="Web.Release.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="images\videos\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

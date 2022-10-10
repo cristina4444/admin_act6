@@ -23,7 +23,6 @@
     </header>
 
     <section>
-        prueba section
         <nav>
             Paginas favoritas <br />
             <asp:HyperLink runat="server" NavigateUrl="https://www.youtube.com/">YouTube</asp:HyperLink><br />
@@ -31,7 +30,10 @@
         </nav>
 
         <article>
-            prueba article
+            <h2>Mi deporte favorito</h2>
+            <p>Actualmente, mi deporte favorito es el voleibol, ya que lo jugaba mucho en la prepa y me divertida mucho</p>
+            <img src="images/voleibol.jpg" width="40%"/>
+
         </article>
     </section>
 
