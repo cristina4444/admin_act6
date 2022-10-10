@@ -77,10 +77,8 @@
         </article>
     </section>
 
-
-
     <footer>
-        prueba footer
+        Cristina Linelle López Corral, 361795, 2022 Oct 9
     </footer>
 
 </body>
