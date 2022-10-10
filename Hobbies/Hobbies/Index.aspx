@@ -50,7 +50,7 @@
             <h1>Otravez mi perrito junto con mi gatito</h1>
             <br />
             <p>Mi perrito se llama Nicolás y mi gatito se llama Mississipi</p>
-            <img src="images/nicoymissi.jpeg" width="50%"/>
+            <img src="images/nicoymissi.jpeg" width="60%"/>
             <br />
             </nav>
         <article>
@@ -62,10 +62,19 @@
 
     <section>
         <nav>
-            <h2>Otravez mi perrito y gatito pero ahora en video</h2>
-
+            <p>Otravez mi perrito y gatito pero ahora en video</p>
+            <video src="images/videos/nicoymissivideo.mp4" controls="controls" />
         </nav>
-        <article></article>
+        <article>
+            <p>Una fotitos de mis amigos y yo:)</p>
+            <img src="images/amiwos.jpeg" width="65%"/>
+          
+            <h2>Algunas de mis canciones favoritas actualmente</h2>
+            <p>Estas dos canciones son las que más he escuchado ultimamente, entonces las considero actualmente mis favoritas</p>
+            <p><audio src="music/Miranda!%20-%20Perfecta.mp3" controls="controls" /></p>
+            <p> <audio src="music/Manuel%20Turizo%20-%20La%20Bachata.mp3" controls="controls" /></p>
+            
+        </article>
     </section>
 
 
