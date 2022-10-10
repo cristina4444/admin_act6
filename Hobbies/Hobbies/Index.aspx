@@ -44,8 +44,13 @@
 
     <section>
         <nav> 
-            <h1>Otravez mi perrito</h1>
-            <img src="images/nico.jpeg" width="35%"/>
+            <h2>Datos curiosos</h2>
+            <p>Color favorito: verde</p>
+            <p>Comida favorita: ceviche</p>
+            <h1>Otravez mi perrito junto con mi gatito</h1>
+            <br />
+            <p>Mi perrito se llama Nicolás y mi gatito se llama Mississipi</p>
+            <img src="images/nicoymissi.jpeg" width="50%"/>
             <br />
             </nav>
         <article>
@@ -54,6 +59,8 @@
             <video src="images/videos/WhatsApp%20Video%202022-10-09%20at%207.10.58%20PM.mp4" controls="controls" width="30%" />
         </article>
     </section>
+
+
 
     <footer>
         prueba footer
